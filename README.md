@@ -4,7 +4,7 @@ Objective: Create an application to keep track of employees
 
 Project Links:
 - Demo: https://drive.google.com/file/d/1HgULw5s-iia3X2Yaks_PzmNFkh0_s3bN/view
-- GitHub: 
+- GitHub: https://github.com/sandraxmm/employee-database
 
 Screenshot Demo:
 
